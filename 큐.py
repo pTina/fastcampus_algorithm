@@ -1,4 +1,3 @@
-from cgi import print_arguments
 import queue
 
 # fifo 사용되는 큐 자료구조
